@@ -66,6 +66,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [Vimvows(Windsoft)](wiki/Vimvows(Windsoft)) Vimvows Windsoft series is made by windsoft
   - [OneOS](wiki/OneOS/)
   - [auroraOS](wiki/auroraOS/) a have some features and new PPT OS.
+  - [IxoraOS](wiki/IxoraOS/IxoraOS) a new PPTOS
 - [Neonnew](https://github.com/neonnew)
   - [neonOS](wiki/neonOS) 
 - [SwordCube Tech](https://github.com/swordcube)
