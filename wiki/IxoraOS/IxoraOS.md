@@ -12,18 +12,17 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | IxoraOS                       |
-| **First Release**         | Not                           |
+| **First Release**         | /                             |
 | **Latest OS Development** | IxoraOS 2022                  |
-| **Latest Stable Release** | Not                           |
+| **Latest Stable Release** | /                             |
 
 ### IxoraOS
 
-IxoraOS is a new pptos for Windsoft Technology, this pptos be will have movable window system and a new design.
+IxoraOS is a new pptos for Windsoft Technology, this pptos will have movable window system and a new design.
 
 ### IxoraOS 2022
 
 IxoraOS 2022 was the first version for IxoraOS series, this version are developing.
-
 
 #### Screenshot
 
@@ -33,6 +32,6 @@ IxoraOS 2022 was the first version for IxoraOS series, this version are developi
 #### Downloads
 
 - IxoraOS 2022
-   - __Not Release Yet__
+   - __No Release Yet__
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
