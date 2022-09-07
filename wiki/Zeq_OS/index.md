@@ -89,6 +89,7 @@ Missing build downloads can be found in their respective page.
   - [zeqOS_Chabazite_B90_B02_Pro [Beta]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build90_B02_Pro.pptm)
 
 - zeqOS Natrolite
+  - [Build34_B01_SP14 (open source)](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14%20(open source).pptm)
   - [Build34_B01_SP14](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14.pptm)
   - [Build34_B01_SP13](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP13.pptm)
   - [Build34_B01_SP12](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP12.pptm)
