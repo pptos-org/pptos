@@ -63,6 +63,7 @@ To be added.
 
 ## zeqOS Natrolite
 - [Build25_B01](Build25_B01)
+- [Build34_B01_SP14](Build34_B01_SP14)
 
 ## zeqOS Makalu
 To be added.
