@@ -156,6 +156,10 @@ Framework 2019 RTM: Support for nestorOS Framework 2019 RTM ended on January 11t
   - [Nestor OS Pi 5 [ENG]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/Nestor%20OS%20Pi%205%20%5BENG%5D.odp)
 
 - nsUI
+ 
+  - [nsUI v1.3.1 [ENG]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v1.3.1.pptm)
+  - [nsUI v1.2 [ENG]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v1.2%20%5BENG%5D.pptm)
+  - [nsUI v1.1 [ENG]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v1.1%20%5BENG%5D.pptm)
   - [nsUI v1 [ENG]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v1%20%5BENG%5D.pptm)
   - [nsUI v0.7.1 [ENG]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v0.7.1%20%5BENG%5D.pptm)
   - [nsUI_v0.7_ENG](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI_v0.7_ENG.pptm)
