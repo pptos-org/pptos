@@ -18,7 +18,7 @@
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
-  </p><p style=""><a href="https://archive.org/download/pptoswiki_archive_23_12_2021/pptoswiki_archive_23_12_2021.zip" style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://archive.org/download/pptoswiki_archive_23_12_2021/pptoswiki_archive_23_12_2021.zip" style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Contents</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">15.6GB</a>
+  </p><p style=""><a href="https://archive.org/download/pptoswiki_archive_23_12_2021/pptoswiki_archive_23_12_2021.zip" style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ia601400.us.archive.org/view_archive.php?archive=/26/items/pptoswiki_archive_23_12_2021/pptoswiki_archive_23_12_2021.zip" style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Contents</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">15.6GB</a>
   </p>
 <div></div><div></div></blockquote></blockquote>
 
