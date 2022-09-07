@@ -51,6 +51,7 @@
 
     - zeqOS Natrolite
       - [Build25_B01](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build25_B01.pptm)
+      - [Build34_B01_SP14 (open source)](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14%20(open%20source).pptm)
       - [Build34_B01_SP14](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14.pptm)
       - [Build34_B01_SP13](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP13.pptm)
       - [Build34_B01_SP12](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP12.pptm)
