@@ -23,5 +23,6 @@ Note: zeqOS Natrolite's code is quite old; zeqOS Chabazite is not open source an
 ### Download
 
   - [Build34_B01_SP14 (open source)](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14%20(open%20source).pptm)
+  - [Build34_B01_SP14](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
