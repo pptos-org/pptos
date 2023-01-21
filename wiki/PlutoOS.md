@@ -4,7 +4,7 @@
   </p>
 </blockquote>
 
-## YourOS
+## PlutoOS
 
 <a>
   <img align="left" height="100" alt="pfp" src="https://i.pinimg.com/474x/80/53/27/805327d9477b489e732e0b0247b7f73f.jpg" />
@@ -25,9 +25,9 @@ The Galaxy S OS series (started with galaxy SII OS)
 Pluto OS had a intro video there is a chance I 
 Might revive it -Vincent.
 
-### YourOS 1.0
+### PutoOS Beta
 
-About 1.0.
+About PutoOS beta
 
 
 #### Screenshot
