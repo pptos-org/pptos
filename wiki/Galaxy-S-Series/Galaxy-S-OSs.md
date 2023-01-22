@@ -14,6 +14,7 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | Galaxy S OS                   |
+| **First OS Development**  | Galaxy SII OS Pre-Alpha 1     |
 | **First Release**         | Galaxy SII OS Mobile          |
 | **Latest OS Development** | Galaxy SIII OS Open alpha     |
 | **Latest Stable Release (SII OS)** | Galaxy SII OS Mobile SP2 Ukraine Edition|
@@ -25,7 +26,7 @@ The Galaxy S Seires
 As Mentioned Previeusly With [PlutoOS](https://quintenvandamme.github.io/pptos-wiki/wiki/PlutoOS)
 This Was The Successor OS Series
 Also This OS Series is canned now but I Am working on a successor OS Series coming soon! The Main Home Screen Was Called "TouchwizPPT" after a vote (in the Windows SM Server) where that name won
-As of 1/22/2023 Galaxy SII OS Public "Alpha" Is Missing.
+As of 1/22/2023 Galaxy SII OS Public "Alpha"RTM PRE-1 Is Missing.
 Please LET ME KNOW IF YOU FIND A FILE OF THE BUILD! -vincent
 
 ### GalaxySII OS Public Beta
@@ -33,9 +34,32 @@ Please LET ME KNOW IF YOU FIND A FILE OF THE BUILD! -vincent
 Nothin much
 Just 
 
-#### Screenshot
+#### Screenshot(s)
 
-> Galaxy SII OS Public Beta Desktop
+> Galaxy SII OS Public Beta+ Home Screen
+![image](https://user-images.githubusercontent.com/90470156/213931063-37533516-173f-4aa4-b6c4-81079ffb2330.png)
+> Galaxy SII OS/Mobile Apps Screen
+![image](https://user-images.githubusercontent.com/90470156/213931043-73670ae7-0f9c-4d31-b129-22b0531cc2a3.png)
+> Galaxy SII OS Mobile RTM Home Screen
+![1](https://raw.githubusercontent.com/Vincent392/Galaxy-S-Series-Update-Sever/Beta-brach/Screenshot_20230122-172744_PowerPoint.jpg)
+> Galaxy SII OS Mobile SP1-SP2 Home Screen
+![1](https://raw.githubusercontent.com/Vincent392/Galaxy-S-Series-Update-Sever/Beta-brach/Screenshot_20230122-172823_PowerPoint.jpg)
+> Galaxy SII OS Mobile SP2 Ukraine Edition Home Screen
+![image](https://user-images.githubusercontent.com/90470156/213930191-7de6273a-e2c8-4929-87fe-ca99a5a9b8f7.png)
+> Galaxy SII OS Music App In Action
+![1](https://cdn.discordapp.com/attachments/844849570843197460/910920898771574864/unknown.png)
+> Galaxy SIII OS Music App In Action
+![image](https://user-images.githubusercontent.com/90470156/213928001-577bec6d-65df-42a8-8ce0-70a867d6f7ad.png)
+> Galaxy SIII OS Build "IE"+ Apps Screen
+![image](https://user-images.githubusercontent.com/90470156/213927907-2b35e27a-3cbf-44af-9f94-9c80738123eb.png)
+> Galaxy SII OS "Intro"
+![image](https://user-images.githubusercontent.com/90470156/213928162-106c1cc7-f29b-4caa-91d8-968e95932c01.png)
+> Galaxy SIII OS "Intro"
+![1](https://cdn.discordapp.com/attachments/844849570843197460/951507824729550879/SPOILER_unknown.png)
+> A Unused Setup Screen In Galaxy SIII OS
+![1](https://cdn.discordapp.com/attachments/844849570843197460/1066757672080261170/image.png)
+> A Development Screenshot Of Galaxy SIII OS Build 14
+![1](https://cdn.discordapp.com/attachments/909844833156337736/998158288350871575/unknown.png)
 
 
 
@@ -43,7 +67,7 @@ Just
 
 - GalaxySII OS  
     - [GalaxySII OS Public Beta](https://archive.org/download/PPTOS-galaxy-sii-os-pb/Galaxy_SII_OS_PB.zip/Galaxy%20SII%20OS.ppsm)
-    - GalaxySII OS Public "Alpha" [MISSING]
+    - GalaxySII OS Public "Alpha" (RTM-PRE 1) [MISSING]
     - [GalaxySII OS Mobile RTM](https://archive.org/download/PPTOS-galaxy-sii-os-rtm/Galaxy_SII_OS_RTM.zip/Galaxy%20SII%20OS%20RTM.ppsm)
     - [GalaxySII OS RTM](https://archive.org/download/PPTOS-galaxy-sii-os-rtm/Galaxy_SII_OS_RTM.zip/Galaxy%20SII%20OS%20RTM.ppsm)
     - [GalaxySII OS Mobile SP1](https://archive.org/download/PPTOS-galaxy-sii-os-mobile-sp-1/Galaxy_SII_OS_Mobile_SP1.zip/Galaxy%20SII%20OS%20Mobile%20SP1.ppsm)
