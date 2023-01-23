@@ -111,7 +111,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - Elestia
   - [ZerulaOS](wiki/ZerulaOS)
   - [ZerulaOS One](wiki/ZerulaOS/ZerulaOS-One)
--[Vincent](https://github.com/Vincent392)
+- [Vincent](https://github.com/Vincent392)
   - [PlutoOS](wiki/PlutoOS)
   - [Galaxy S OSs](wiki/Galaxy-S-Series/Galaxy-S-OSs)
 - [GalaxyDeem](https://github.com/GalaxyDeem)
