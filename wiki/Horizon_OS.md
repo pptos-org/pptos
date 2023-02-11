@@ -31,6 +31,7 @@ J Inc. OS 3.0 came 2 years later in 2019 which introduced an cool blue water the
 J Inc. OS 4.0 came 1 month later which replaced the water theme with a purple galaxy theme. It also improved functionality and started to feature basic ActiveX and VBA code. He finally discovered the developer tab!
 
 J Inc. OS 2019 edition which had basically a Windows 8.1 UI rip-off but it was the first proper PPTOS by Project: J Inc. (Then known as Blobyj09 but was not present in the PPTOS community)
+
 AreoOS followed 2019 edition in 2020 but J Inc. got lazy and it was only a wanna be windows 7 rip-off concept! BUT, AreoOS was the groundwork for J Inc. OS Areo!
 J Inc. OS Areo is basically a SP1 update to AeroOS but J Inc. OS Areo would be rebranded and reset in early 2021! It was about 6 months before J Inc. made an appearance in Project: PowerPoint’s discord server!
 
