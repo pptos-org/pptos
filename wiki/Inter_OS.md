@@ -7,7 +7,7 @@
 ## Inter OS
 
 <a>
-  <img align="left" height="100" alt="Inter OS logo image" src="https://media.discordapp.net/attachments/820075981770850354/820086886383091712/logo.png?width=407&height=421" />
+  <img align="left" height="100" alt="Inter OS logo image" src="https://user-images.githubusercontent.com/58103738/223493302-e79b8070-1f9f-45b6-83e0-5f55421163b8.png" />
 </a>
 
 |                           |                               |
