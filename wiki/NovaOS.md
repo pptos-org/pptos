@@ -5,7 +5,7 @@
 </blockquote>
 
 ## NovaOS
-
+**IMPORTANT: NovaOS Is discontinued**
 <a>
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/88238063/172009093-5265e809-7fb6-4014-a23f-5adbbd02a6c2.png" />
 </a>
