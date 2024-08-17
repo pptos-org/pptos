@@ -3,7 +3,7 @@
     <a href="https://pptos-org.github.io/pptos/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
-<a href="https://discord.gg/FAtAkCadDr"><img src="https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/banner.png" style="margin-bottom: 20px;"></a>
+<a href="https://discord.gg/FAtAkCadDr"><img src="https://raw.githubusercontent.com/pptos-org/pptos/gh-pages/assets/banner.png" style="margin-bottom: 20px;"></a>
 
 ## Welcome to the PPTOS Wiki!
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
