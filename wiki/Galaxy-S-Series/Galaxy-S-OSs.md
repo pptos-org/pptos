@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://pptos-org.github.io/pptos/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://pptos-org.github.io/pptos/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -23,7 +23,7 @@
 ### Galaxy S OS
 Here we are.
 The Galaxy S Seires
-As Mentioned Previeusly With [PlutoOS](https://quintenvandamme.github.io/pptos-wiki/wiki/PlutoOS)
+As Mentioned Previeusly With [PlutoOS](https://pptos-org.github.io/pptos/wiki/PlutoOS)
 This Was The Successor OS Series
 Also This OS Series is canned now but I Am working on a successor OS Series coming soon! The Main Home Screen Was Called "TouchwizPPT" after a vote (in the Windows SM Server) where that name won
 As of 1/22/2023 Galaxy SII OS Public "Alpha"RTM PRE-1 Is Missing.
