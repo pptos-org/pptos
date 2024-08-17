@@ -4,11 +4,11 @@
     <a href="https://pptos-org.github.io/openvb/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">openVB</a>
   </p>
 </blockquote>
-<a href="https://discord.gg/FAtAkCadDr"><img src="https://raw.githubusercontent.com/pptos-org/pptos/gh-pages/assets/banner.png" style="margin-bottom: 20px;"></a>
+<a href="https://discord.gg/UNFpZBpevm"><img src="https://raw.githubusercontent.com/pptos-org/pptos/gh-pages/assets/banner.png" style="margin-bottom: 20px;"></a>
 
 ## Welcome to the PPTOS Wiki!
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
-Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members. This wiki page was made by hexaone, who has left our community.
+Join [here](https://discord.gg/UNFpZBpevm) the Wiki's Discord Server to talk with the PPTOS members. This wiki page was made by hexaone, who has left our community.
 
 - View the archive from **111 users** [here](https://pptos-org.github.io/pptos/archive/).
 
